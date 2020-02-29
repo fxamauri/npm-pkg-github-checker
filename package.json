@@ -1,0 +1,17 @@
+{
+  "name": "npm-vai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": " echo \"teste\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vai": "node nva/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  }
+}
